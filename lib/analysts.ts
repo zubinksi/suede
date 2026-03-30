@@ -47,7 +47,7 @@ export const ANALYSTS: Analyst[] = [
     description: "Value-oriented investment ideas",
     tags: ["equities", "value", "deep-dive"],
     sources: [
-      { type: "rss", url: "https://lekkercapital.substack.com/feed", label: "Lekker Capital" },
+      { type: "rss", url: "https://www.lekkercapital.com/feed", label: "Lekker Capital" },
     ],
   },
   {
