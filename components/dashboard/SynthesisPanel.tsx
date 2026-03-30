@@ -1,6 +1,6 @@
 "use client";
 
-import { SynthesisResult } from "@/lib/synthesizer";
+import type { SynthesisResult } from "@/lib/types";
 import { ThemeCard } from "./ThemeCard";
 import { PositionCard } from "./PositionCard";
 import { Badge } from "@/components/ui/badge";

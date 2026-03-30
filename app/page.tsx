@@ -2,7 +2,7 @@
 
 import { useState, useCallback } from "react";
 import { ANALYSTS, AnalystPost } from "@/lib/analysts";
-import { SynthesisResult } from "@/lib/synthesizer";
+import type { SynthesisResult } from "@/lib/types";
 import { AnalystCard } from "@/components/dashboard/AnalystCard";
 import { SynthesisPanel } from "@/components/dashboard/SynthesisPanel";
 import { ManualInputModal } from "@/components/dashboard/ManualInputModal";

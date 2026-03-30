@@ -1,4 +1,4 @@
-import { Position } from "@/lib/synthesizer";
+import type { Position } from "@/lib/types";
 import { Badge } from "@/components/ui/badge";
 import { TrendingUp, TrendingDown, Zap, ArrowRightLeft, Globe, Users, AlertTriangle, Target } from "lucide-react";
 

@@ -1,4 +1,4 @@
-import { Theme } from "@/lib/synthesizer";
+import type { Theme } from "@/lib/types";
 import { Badge } from "@/components/ui/badge";
 import { Users, Clock } from "lucide-react";
 
