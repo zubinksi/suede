@@ -1,10 +1,1 @@
-{
-  "functions": {
-    "app/api/synthesize/route.ts": {
-      "maxDuration": 60
-    },
-    "app/api/fetch-feeds/route.ts": {
-      "maxDuration": 30
-    }
-  }
-}
+{}
