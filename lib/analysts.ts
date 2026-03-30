@@ -36,7 +36,7 @@ export const ANALYSTS: Analyst[] = [
     description: "Macro & markets commentary",
     tags: ["macro", "equities", "rates"],
     sources: [
-      { type: "web", url: "https://www.campbellramble.ai/", label: "Campbell Ramble" },
+      { type: "rss", url: "https://campbellramble.substack.com/feed", label: "Campbell Ramble" },
     ],
   },
   {
@@ -47,7 +47,7 @@ export const ANALYSTS: Analyst[] = [
     description: "Value-oriented investment ideas",
     tags: ["equities", "value", "deep-dive"],
     sources: [
-      { type: "web", url: "https://www.lekkercapital.com/", label: "Lekker Capital" },
+      { type: "rss", url: "https://lekkercapital.substack.com/feed", label: "Lekker Capital" },
     ],
   },
   {
